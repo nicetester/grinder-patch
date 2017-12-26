@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.ngrinder</groupId>
-    <artifactId>grinder</artifactId>
+    <artifactId>grinder-patch</artifactId>
     <name>grinder</name>
     <version>3.9.1-patch</version>
     <packaging>jar</packaging>
